@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/howmanyinserver", "destination": "/jk/index.html" }
+  ]
+}
